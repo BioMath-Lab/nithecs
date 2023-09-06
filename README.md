@@ -1,4 +1,4 @@
-# nithecs
+# The National Institute for Theoretical and Computational Sciences (NITheCS)
 https://nithecs.ac.za/modelling-biodiversity/
 
 # ADVANCING BIODIVERSITY INFORMATICS AND ECOLOGICAL MODELLING
